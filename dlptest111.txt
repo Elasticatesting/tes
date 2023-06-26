@@ -1,0 +1,2 @@
+my DLP test file
+BLRAutomationBlockUploadFileEOE keyword
