@@ -1,2 +1,3 @@
 gmq test
-pass
+password
+ssn
