@@ -1,1 +1,2 @@
-GMQ test
+gmq test
+pass
